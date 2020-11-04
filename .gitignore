@@ -1,0 +1,4 @@
+# ignore al lcsv files in the repo
+*.csv
+*.dat
+*.xlsx
